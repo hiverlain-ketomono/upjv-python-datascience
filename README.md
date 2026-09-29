@@ -1,5 +1,5 @@
 
-README = """# Python & Data Science — UPJV Amiens
+Python & Data Science — UPJV Amiens
 
 **Étudiant·e :** hiverlain-ketomono
 **Formation :** L3 Économie 
